@@ -50,3 +50,4 @@ function highestPalindrome(str: string, maxChanges: number): string | number {
 console.log(highestPalindrome("3943", 1)); // Output: 3993
 console.log(highestPalindrome("932239", 2)); // Output: 992299
 console.log(highestPalindrome("12321", 0)); // Output: 12321
+console.log(highestPalindrome("12345", 1)); // Output: -1
