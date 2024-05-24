@@ -16,4 +16,4 @@ Kompleksitas algoritma diatas adalah O(n). Untuk kasus pada soal ini, kompleksit
 ### Soal nomor 3
 
 Test Case:
-![image info](./screenshot/highest-palindrome.png)
+![image info](./screenshot/highest-palindrome-1.png)
